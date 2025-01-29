@@ -2,6 +2,12 @@
 
 Graphic frontend for [pandoc](https://github.com/jgm/pandoc) (Universal markup converter by John MacFarlane). This is a tiny Zenity-script, using the Golang implementation of "[Zenity](https://github.com/ncruces/zenity)" scripting GUI by Nuno Cruces together with busybox-shell.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a413c802-1564-4447-96d1-53c5269851b3" alt="PandocGUI (de)">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/6b57b2a5-6148-4533-9ded-29a9384cc6df" alt="PandocGUI (en)">
+</p>
+
 Info: Due to the very large size of "pandoc.exe" and the engines (provided here), you will not find them in this repo. Please look at the releases for a complete package with all needed files 😃 !
 
 ## Features
